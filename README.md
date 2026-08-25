@@ -1,4 +1,4 @@
-````markdown
+
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!--                    TEKO FOLLY HARIEL MARCEL                            -->
 <!--                    GitHub Profile README                                -->
@@ -437,4 +437,4 @@ current_focus:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:6366F1,100:4F46E5&height=120&section=footer" width="100%"/>
 
 </div>
-```
+
