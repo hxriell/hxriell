@@ -27,10 +27,9 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          mkdir -p output
-          cp dist/github-contribution-grid-snake.svg output/
+          cp dist/github-contribution-grid-snake.svg github-contribution-grid-snake.svg
           git checkout -B output
-          git add output/
+          git add github-contribution-grid-snake.svg
           git diff --staged --quiet && echo "No changes" && exit 0
           git commit -m "Update contribution snake"
           git push origin output --force
