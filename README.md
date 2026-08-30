@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,30:4F46E5,70:7C3AED,100:A78BFA&height=220&section=header&text=TEKO%20Folly%20Hariel%20Marcel&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Full-Stack%20Engineer%20%C2%B7%20Embedded%20Systems%20%C2%B7%20AI%2FML&descAlignY=55&descSize=16"/>
 
@@ -18,7 +18,7 @@
 
 <br><br>
 
-<a href="https://hxriell07.github.io/mon-portfolio-1/"><img src="https://img.shields.io/badge/🌐_Portfolio-Live_Demo-8B5CF6?style=for-the-badge&labelColor=0D1117"/></a>
+<a href="https://hxriell.github.io/portfolio/"><img src="https://img.shields.io/badge/🌐_Portfolio-Live_Demo-8B5CF6?style=for-the-badge&labelColor=0D1117"/></a>
 <a href="mailto:marceltko@gmail.com"><img src="https://img.shields.io/badge/✉️_Email-marceltko@gmail.com-6366F1?style=for-the-badge&labelColor=0D1117"/></a>
 <a href="https://github.com/hxriell"><img src="https://img.shields.io/badge/💻_GitHub-hxriell-4F46E5?style=for-the-badge&labelColor=0D1117"/></a>
 
@@ -149,8 +149,8 @@ Fondateur de **[TOSKANIRO](https://github.com/hxriell)** — ingénierie logicie
 |---|---|
 | **Stack** | Astro 7 · HTML5 · CSS3 · JavaScript · GitHub Pages |
 | **Architecture** | Static islands — lab hydrated on `/lab` only |
-| **Live** | [hxriell07.github.io/mon-portfolio-1](https://hxriell07.github.io/mon-portfolio-1/) |
-| **Repository** | [github.com/hxriell](https://github.com/hxriell) |
+| **Live** | [hxriell.github.io/portfolio](https://hxriell.github.io/portfolio/) |
+| **Repository** | [github.com/hxriell/portfolio](https://github.com/hxriell/portfolio) |
 | **Impact** | Interactive proof of full-stack & creative engineering |
 
 </details>
@@ -369,12 +369,17 @@ Entité technologique dédiée à l'ingénierie, l'automatisation, l'intégratio
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=hxriell&show_icons=true&theme=transparent&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=E2E8F0&count_private=true&border_radius=12" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hxriell&layout=compact&theme=transparent&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E2E8F0&langs_count=8&border_radius=12" height="170"/>
+<a href="https://github.com/hxriell">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hxriell&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&count_private=true"/>
+</a>
+
+<a href="https://github.com/hxriell">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hxriell&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=8"/>
+</a>
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=hxriell&theme=transparent&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=6366F1&border_radius=12"/>
+<img src="https://streak-stats.demolab.com?user=hxriell&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=6366F1"/>
 
 <br><br>
 
@@ -382,7 +387,7 @@ Entité technologique dédiée à l'ingénierie, l'automatisation, l'intégratio
 
 <br><br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=hxriell&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=4&rank=-C"/>
+<img src="https://github-profile-trophy.vercel.app/?username=hxriell&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=4"/>
 
 <br><br>
 
@@ -445,7 +450,7 @@ ouvert_a:
 
 <a href="mailto:marceltko@gmail.com"><img src="https://img.shields.io/badge/Gmail-marceltko@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/hxriell"><img src="https://img.shields.io/badge/GitHub-@hxriell-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://hxriell07.github.io/mon-portfolio-1/"><img src="https://img.shields.io/badge/Portfolio-Live_Demo-8B5CF6?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+<a href="https://hxriell.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-Live_Demo-8B5CF6?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
 
 <br><br>
 
