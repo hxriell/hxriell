@@ -1,440 +1,460 @@
+﻿<div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                    TEKO FOLLY HARIEL MARCEL                            -->
-<!--                    GitHub Profile README                                -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,30:4F46E5,70:7C3AED,100:A78BFA&height=220&section=header&text=TEKO%20Folly%20Hariel%20Marcel&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Full-Stack%20Engineer%20%C2%B7%20Embedded%20Systems%20%C2%B7%20AI%2FML&descAlignY=55&descSize=16"/>
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:6366F1,100:8B5CF6&height=180&section=header&text=TEKO%20Folly%20Hariel%20Marcel&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20%7C%20Embedded%20Systems%20Enthusiast&descAlignY=60&descSize=17" width="100%"/>
-
-<br>
-
-<a href="https://readme-typing-svg.demolab.com">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=800&lines=Full-Stack+Software+Engineer;Embedded+Systems+Enthusiast;AI%2FML+%26+Computer+Vision;Product-Oriented+Engineer;Founder+%40+TOSKANIRO" alt="Typing SVG"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1200&color=A78BFA&center=true&vCenter=true&width=780&lines=Building+systems+that+solve+real+problems;Je+con%C3%A7ois+des+syst%C3%A8mes+qui+r%C3%A9solvent+de+vrais+probl%C3%A8mes;Product-Oriented+%C2%B7+Security-First+%C2%B7+Interactive+Proofs;Founder+%40+TOSKANIRO+%C2%B7+Lom%C3%A9%2C+Togo" alt="Typing animation"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Baccalauréat-D%20%7C%20Sciences-6366F1?style=for-the-badge&labelColor=111827"/>
-<img src="https://img.shields.io/badge/Google-Cybersecurity-4F46E5?style=for-the-badge&labelColor=111827"/>
-<img src="https://img.shields.io/badge/Location-Lomé%2C%20Togo-8B5CF6?style=for-the-badge&labelColor=111827"/>
+<img src="https://img.shields.io/badge/🇬🇧_English-Below-8B5CF6?style=flat-square&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/🇫🇷_Français-Plus_bas-6366F1?style=flat-square&labelColor=0D1117"/>
 
 <br><br>
 
-<a href="https://hxriell07.github.io/mon-portfolio-1/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-8B5CF6?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
-<a href="mailto:marceltko@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-6366F1?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://github.com/hxriell07">
-<img src="https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<img src="https://img.shields.io/badge/Baccalauréat-D_%7C_Sciences-4F46E5?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Google-Cybersecurity-6366F1?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Elements_of_AI-Certified-8B5CF6?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Lomé,_Togo-🇹🇬-7C3AED?style=for-the-badge&labelColor=0D1117"/>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=hxriell07&style=for-the-badge&color=6366F1&label=PROFILE+VIEWS"/>
-<img src="https://img.shields.io/github/followers/hxriell07?style=for-the-badge&color=8B5CF6&label=FOLLOWERS"/>
-<img src="https://img.shields.io/github/stars/hxriell07?style=for-the-badge&color=4F46E5&label=STARS"/>
+<a href="https://hxriell07.github.io/mon-portfolio-1/"><img src="https://img.shields.io/badge/🌐_Portfolio-Live_Demo-8B5CF6?style=for-the-badge&labelColor=0D1117"/></a>
+<a href="mailto:marceltko@gmail.com"><img src="https://img.shields.io/badge/✉️_Email-marceltko@gmail.com-6366F1?style=for-the-badge&labelColor=0D1117"/></a>
+<a href="https://github.com/hxriell"><img src="https://img.shields.io/badge/💻_GitHub-hxriell-4F46E5?style=for-the-badge&labelColor=0D1117"/></a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=hxriell&style=for-the-badge&color=7C3AED&labelColor=0D1117&label=VIEWS"/>
+<img src="https://img.shields.io/github/followers/hxriell?style=for-the-badge&color=8B5CF6&labelColor=0D1117&label=FOLLOWERS"/>
+<img src="https://img.shields.io/github/stars/hxriell?style=for-the-badge&color=6366F1&labelColor=0D1117&label=STARS"/>
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=4F46E5,8B5CF6&height=3&section=header&text=&fontSize=0" width="100%"/>
 
-# About
+<h2 align="center">About · À propos</h2>
 
-I am a **Full-Stack Software Engineer & Embedded Systems Enthusiast** focused on building practical, scalable and secure technology products.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-My engineering work combines **software architecture, backend systems, databases, automation, AI/ML and low-level computing**. I have a strong interest in understanding how systems operate beneath the application layer, particularly through **microcontrollers, embedded systems and hardware-oriented engineering**.
+### 🇬🇧 English
 
-I approach development with a **product-engineering mindset**: transforming ideas into maintainable systems, designing reliable architectures, securing application workflows and building tools capable of supporting real-world operational requirements.
+I am a **Full-Stack Software Engineer** and **Embedded Systems enthusiast** building practical, scalable and secure products.
 
-I am also the founder of **TOSKANIRO**, a technology entity focused on consolidating software engineering, automation and emerging technology projects.
+My work spans **software architecture, backend systems, databases, automation, AI/ML and low-level computing** — with a strong focus on how systems behave beneath the application layer.
 
-### Open To
+I ship with a **product-engineering mindset**: reliable architectures, secure workflows, and tools that support real operational needs.
 
-- Full-Stack Software Engineering roles
-- Backend & Systems Engineering
-- Embedded Systems development
-- Internal tools & automation engineering
-- AI/ML integration
-- Product-oriented software development
+Founder of **[TOSKANIRO](https://github.com/hxriell)** — software engineering, automation and emerging tech.
 
----
+**Open to:** Full-Stack · Backend · Embedded · Automation · AI/ML · Product Engineering
 
-# Tech Stack
+</td>
+<td width="50%" valign="top">
 
-### Languages
+### 🇫🇷 Français
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,php,c,cpp,sql" />
-</p>
+**Ingénieur Full-Stack** et passionné de **systèmes embarqués**, je conçois des produits technologiques pratiques, évolutifs et sécurisés.
 
-### Frontend & UI
+Mon travail couvre **l'architecture logicielle, le backend, les bases de données, l'automatisation, l'IA/ML et le bas niveau** — avec un intérêt marqué pour le fonctionnement des systèmes sous la couche applicative.
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=nextjs,figma" />
-</p>
+J'aborde le développement avec une **vision produit** : architectures fiables, workflows sécurisés et outils adaptés aux besoins réels.
 
-### Backend & Databases
+Fondateur de **[TOSKANIRO](https://github.com/hxriell)** — ingénierie logicielle, automatisation et technologies émergentes.
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=php,supabase" />
-</p>
+**Ouvert à :** Full-Stack · Backend · Embarqué · Automatisation · IA/ML · Ingénierie produit
 
-### Cloud, DevOps & Tooling
+</td>
+</tr>
+</table>
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=cloudflare,supabase" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=4F46E5,8B5CF6&height=3&section=header&text=&fontSize=0" width="100%"/>
 
-### Hardware, AI & Engines
+<h2 align="center">Tech Stack</h2>
 
-<p align="left">
+<div align="center">
+
+### Languages · Langages
+
+<img src="https://skillicons.dev/icons?i=python,php,c,cpp,js,html,css,sql" />
+
+<br><br>
+
+### Frontend · UI · Static
+
+<img src="https://skillicons.dev/icons?i=astro,figma" />
+
+<br><br>
+
+### Backend · Data · Cloud
+
+<img src="https://skillicons.dev/icons?i=php,supabase,cloudflare,wordpress" />
+
+<br><br>
+
+### AI · Hardware · Engines
+
 <img src="https://skillicons.dev/icons?i=arduino,opencv,tensorflow,unreal,unity" />
-</p>
-
-**Additional engineering focus:** Model Context Protocol (MCP), computer vision, microcontroller programming, offline/multiplayer networking logic and AI-assisted systems.
-
----
-
-# AI / ML Expertise
-
-| Domain | Proficiency | Details |
-|---|:---:|---|
-| Computer Vision | Advanced | OpenCV-based image processing and computer vision workflows |
-| TensorFlow / Keras | Intermediate | Machine-learning model development and experimentation |
-| AI Integration | Intermediate | Integration of AI capabilities into software products |
-| Unity AI | Intermediate | AI-oriented game/system logic |
-| Automation | Advanced | Software automation and low-level workflow engineering |
-| MCP | Intermediate | Model Context Protocol exploration and integration |
-
----
-
-# Featured Projects
-
-<details>
-<summary><strong>01 — EmeFa</strong> · Multiservice Rental Platform</summary>
 
 <br>
 
-**EmeFa** is a multiservice web platform designed around rental operations and user-driven listings.
+<img src="https://img.shields.io/badge/MCP-Model_Context_Protocol-8B5CF6?style=flat-square&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Computer_Vision-OpenCV-6366F1?style=flat-square&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Embedded-Microcontrollers-7C3AED?style=flat-square&labelColor=0D1117"/>
 
-The engineering focus includes backend architecture, security controls, user workflows and notification infrastructure designed to support recurring daily operations.
+</div>
 
-| Engineering Area | Details |
+<img src="https://capsule-render.vercel.app/api?type=rect&color=4F46E5,8B5CF6&height=3&section=header&text=&fontSize=0" width="100%"/>
+
+<h2 align="center">AI / ML Expertise · Expertise IA</h2>
+
+<div align="center">
+
+| Domain | Niveau | EN | FR |
+|:---:|:---:|---|---|
+| **Computer Vision** | Advanced | OpenCV pipelines & image processing | Traitement d'images et pipelines OpenCV |
+| **TensorFlow / Keras** | Intermediate | Model development & experimentation | Développement et expérimentation de modèles |
+| **AI Integration** | Intermediate | AI features inside software products | Intégration IA dans des produits logiciels |
+| **Unity AI** | Intermediate | Game & system AI logic | Logique IA pour jeux et systèmes |
+| **Automation** | Advanced | Workflow & low-level automation | Automatisation de workflows et bas niveau |
+| **MCP** | Intermediate | Model Context Protocol integration | Intégration du Model Context Protocol |
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=4F46E5,8B5CF6&height=3&section=header&text=&fontSize=0" width="100%"/>
+
+<h2 align="center">Featured Projects · Projets phares</h2>
+
+<details open>
+<summary><strong>⭐ 01 — Portfolio interactif</strong> · Astro · 15 modules jouables</summary>
+<br>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**EN** — Personal site with cinematic home, project case studies and an interactive lab (15 browser modules). Skills are verifiable in a few clicks.
+
+</td>
+<td width="50%" valign="top">
+
+**FR** — Site personnel avec accueil cinématique, études de cas et labo interactif (15 modules). Les compétences se vérifient en quelques clics.
+
+</td>
+</tr>
+</table>
+
+| | |
 |---|---|
-| **Stack** | PHP, Cloudflare |
-| **Architecture** | Custom backend architecture |
-| **Scale** | Multi-listing / daily operational workflows |
-| **Performance** | Lightweight backend-oriented implementation |
-| **Security** | Strict input and application security filters |
-| **Impact** | Backend architecture and user notification system |
-| **Repository** | Private / unavailable |
-
-### Engineering Scope
-
-- Designed and implemented backend architecture.
-- Integrated Cloudflare infrastructure.
-- Implemented strict security filtering mechanisms.
-- Developed user notification workflows.
-- Structured the platform around recurring operational use cases.
-- Focused on maintainability and reliable user-facing operations.
+| **Stack** | Astro 7 · HTML5 · CSS3 · JavaScript · GitHub Pages |
+| **Architecture** | Static islands — lab hydrated on `/lab` only |
+| **Live** | [hxriell07.github.io/mon-portfolio-1](https://hxriell07.github.io/mon-portfolio-1/) |
+| **Repository** | [github.com/hxriell](https://github.com/hxriell) |
+| **Impact** | Interactive proof of full-stack & creative engineering |
 
 </details>
 
----
-
-<details>
-<summary><strong>02 — Nevoo</strong> · E-Commerce Marketplace</summary>
-
 <br>
 
-**Nevoo** is a beta e-commerce marketplace engineered around mobile-first product catalogs and optimized listings.
+<details>
+<summary><strong>02 — EmeFa</strong> · Plateforme multiservices</summary>
+<br>
 
-| Engineering Area | Details |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**EN** — Multiservice platform (real estate, rentals, events) with unified navigation and visual identity.
+
+</td>
+<td width="50%" valign="top">
+
+**FR** — Plateforme multiservices (immobilier, location, événementiel) avec navigation unifiée et identité visuelle.
+
+</td>
+</tr>
+</table>
+
+| | |
 |---|---|
-| **Stack** | Web application architecture |
-| **Architecture** | Marketplace / catalog architecture |
-| **Scale** | Product catalog oriented |
-| **Performance** | Listing and catalog optimization |
-| **Security** | Application-level engineering |
-| **Impact** | Mobile product catalog and listing optimization |
-| **Repository** | Private / unavailable |
-
-### Engineering Scope
-
-- Engineered marketplace foundations.
-- Designed product catalog workflows.
-- Optimized mobile-oriented listings.
-- Structured product information for marketplace usage.
-- Focused on a scalable product-oriented architecture.
+| **Stack** | WordPress · CSS · UX/UI |
+| **Live** | [emefa.net](https://emefa.net/) |
+| **Impact** | Three activities reachable from a single entry point |
 
 </details>
 
----
+<br>
 
 <details>
-<summary><strong>03 — ShoolScore</strong> · Academic Management SaaS</summary>
+<summary><strong>03 — Nevoo</strong> · Marketplace e-commerce (beta)</summary>
+<br>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**EN** — Smartphone marketplace with product catalog, purchase flow and real-world testing.
+
+</td>
+<td width="50%" valign="top">
+
+**FR** — Place de marché smartphones avec catalogue, parcours d'achat et tests en conditions réelles.
+
+</td>
+</tr>
+</table>
+
+| | |
+|---|---|
+| **Stack** | E-commerce · Database · Full-Stack (beta) |
+| **Live** | [gracia.emefa.net](https://gracia.emefa.net/) |
+| **Impact** | Sellers publish listings without technical intervention |
+
+</details>
 
 <br>
 
-**ShoolScore** is a SaaS-oriented academic tracking system connecting frontend workflows with backend API services and database infrastructure.
+<details>
+<summary><strong>04 — ShoolScore</strong> · Academic Management SaaS</summary>
+<br>
 
-| Engineering Area | Details |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**EN** — SaaS academic tracking connecting frontend forms, backend APIs and SQL infrastructure.
+
+</td>
+<td width="50%" valign="top">
+
+**FR** — Suivi académique SaaS reliant formulaires, API backend et infrastructure SQL.
+
+</td>
+</tr>
+</table>
+
+| | |
 |---|---|
-| **Stack** | Frontend + Backend API + SQL |
-| **Architecture** | SaaS / API-driven architecture |
-| **Scale** | Academic data management |
-| **Performance** | Structured API workflows |
+| **Stack** | Frontend · Backend API · SQL |
 | **Security** | Backend-controlled data operations |
-| **Impact** | Academic tracking and database foundation |
-| **Repository** | Private / unavailable |
-
-### Engineering Scope
-
-- Integrated frontend forms with backend API services.
-- Designed the foundational database framework.
-- Structured academic data workflows.
-- Connected user-facing interfaces to backend operations.
-- Developed the foundations of a SaaS-oriented system.
+| **Repository** | Private |
 
 </details>
 
----
-
-<details>
-<summary><strong>04 — TOSKANIRO Security</strong> · Admin Impersonation Protocol</summary>
-
 <br>
 
-A security-focused back-office architecture designed to replace insecure global master-password approaches with a controlled **Admin Impersonation Protocol**.
+<details>
+<summary><strong>05 — TOSKANIRO Security</strong> · Admin Impersonation Protocol</summary>
+<br>
 
-| Engineering Area | Details |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**EN** — Security back-office replacing global master passwords with a controlled admin impersonation protocol.
+
+</td>
+<td width="50%" valign="top">
+
+**FR** — Back-office sécurisé remplaçant les mots de passe maîtres par un protocole d'impersonation admin contrôlé.
+
+</td>
+</tr>
+</table>
+
+| | |
 |---|---|
 | **Stack** | Backend security architecture |
-| **Architecture** | Administrative access control |
-| **Scale** | Back-office operations |
-| **Performance** | Controlled administrative workflows |
-| **Security** | Identity impersonation protocol |
-| **Impact** | Replaces global master passwords |
-| **Repository** | Private / unavailable |
-
-### Engineering Scope
-
-- Designed an administrator impersonation mechanism.
-- Replaced global master-password patterns.
-- Structured controlled administrative access.
-- Focused on professional security standards.
-- Reduced the security risks associated with shared privileged credentials.
+| **Security** | Identity impersonation · privileged access control |
+| **Repository** | Private |
 
 </details>
 
----
+<br>
 
-# Experience
+<details>
+<summary><strong>06 — Unreal Engine Prototypes</strong> · Game Dev</summary>
+<br>
 
-### Founder — TOSKANIRO
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Technology & Software Engineering**
+**EN** — Two playable game prototypes with full gameplay loops — Blueprints/C++ and 3D environments.
 
-TOSKANIRO is the technology entity founded by TEKO Folly Hariel Marcel, focused on software engineering, automation, AI integration, systems architecture and emerging technologies.
+</td>
+<td width="50%" valign="top">
 
-#### Scope
+**FR** — Deux prototypes jouables avec boucles de gameplay complètes — Blueprints/C++ et environnements 3D.
 
-- Full-Stack software engineering
-- Backend architecture
-- Automation
-- Database systems
-- AI/ML integration
+</td>
+</tr>
+</table>
+
+| | |
+|---|---|
+| **Stack** | Unreal Engine · 3D · Gameplay |
+| **Impact** | Idea-to-playable 3D project delivery |
+
+</details>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=4F46E5,8B5CF6&height=3&section=header&text=&fontSize=0" width="100%"/>
+
+<h2 align="center">Experience · Expérience</h2>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🇬🇧 Founder — TOSKANIRO
+**2024 — Present** · Technology & Software Engineering
+
+Software entity focused on engineering, automation, AI integration, systems architecture and emerging technologies.
+
+- Full-Stack & backend architecture
+- Database systems & automation
+- AI/ML integration & security architecture
 - Embedded systems exploration
-- Internal tools
-- Security architecture
-- Product engineering
+- Internal tools & product engineering
 
-`Software Engineering` `Backend` `AI/ML` `Automation` `Embedded Systems` `Security`
+`Software Engineering` `Backend` `AI/ML` `Automation` `Embedded` `Security`
 
----
+</td>
+<td width="50%" valign="top">
 
-# Achievements
+### 🇫🇷 Fondateur — TOSKANIRO
+**2024 — Présent** · Technologie & Ingénierie logicielle
 
-<div align="center">
+Entité technologique dédiée à l'ingénierie, l'automatisation, l'intégration IA, l'architecture systèmes et les technologies émergentes.
 
-| Recognition | Details |
-|:---:|---|
-| **Google Cybersecurity** | Professional cybersecurity certification |
-| **OpenCV / TensorFlow-Keras** | Completed technical bootcamp |
-| **Hedera** | Certified Foundation — THA Academy |
-| **Tech Community** | Active participation in regional technology events |
-| **TOSKANIRO** | Founder and technology ecosystem builder |
+- Ingénierie Full-Stack & architecture backend
+- Bases de données & automatisation
+- Intégration IA/ML & architecture sécurité
+- Exploration systèmes embarqués
+- Outils internes & ingénierie produit
 
-</div>
+`Ingénierie` `Backend` `IA/ML` `Automatisation` `Embarqué` `Sécurité`
 
----
+</td>
+</tr>
+</table>
 
-# Certifications
+<img src="https://capsule-render.vercel.app/api?type=rect&color=4F46E5,8B5CF6&height=3&section=header&text=&fontSize=0" width="100%"/>
 
-### Google
-
-<img src="https://img.shields.io/badge/Google-Cybersecurity%20Professional%20Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-
-### OpenCV / TensorFlow
-
-<img src="https://img.shields.io/badge/OpenCV-TensorFlow--Keras%20Bootcamp-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-
-### Hedera / THA Academy
-
-<img src="https://img.shields.io/badge/Hedera-Certified%20Foundation-8259EF?style=for-the-badge&logo=hedera&logoColor=white"/>
-
----
-
-# Tech Community Engagement
-
-Active participation in regional technology events and developer ecosystems, including:
-
-- **Tech Savvy Summit**
-- **Build with AI**
-- **Togo IT Days**
-
----
-
-# Coding Profiles
+<h2 align="center">Certifications & Achievements</h2>
 
 <div align="center">
 
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-Engineering%20Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
+<a href="https://www.coursera.org/professional-certificates/google-cybersecurity"><img src="https://img.shields.io/badge/Google-Cybersecurity_Professional-4285F4?style=for-the-badge&logo=google&logoColor=white"/></a>
+<a href="https://www.elementsofai.com/"><img src="https://img.shields.io/badge/Elements_of_AI-Certified-8B5CF6?style=for-the-badge&labelColor=0D1117"/></a>
+<a href="https://opencv.org/"><img src="https://img.shields.io/badge/OpenCV-TensorFlow--Keras_Bootcamp-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/></a>
+<a href="https://hedera.com/"><img src="https://img.shields.io/badge/Hedera-Certified_Foundation-8259EF?style=for-the-badge&logo=hedera&logoColor=white"/></a>
 
-<a href="https://www.geeksforgeeks.org/">
-<img src="https://img.shields.io/badge/GeeksforGeeks-Coding%20Practice-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
+<br><br>
 
-<a href="https://www.hackerrank.com/">
-<img src="https://img.shields.io/badge/HackerRank-Problem%20Solving-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
-</a>
-
-<a href="https://www.codechef.com/">
-<img src="https://img.shields.io/badge/CodeChef-Competitive%20Programming-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
+| Recognition | EN | FR |
+|:---:|---|---|
+| 🏆 | Google Cybersecurity Professional Certificate | Certificat professionnel Google Cybersécurité |
+| 🧠 | OpenCV / TensorFlow-Keras bootcamp | Bootcamp OpenCV / TensorFlow-Keras |
+| ⛓️ | Hedera Certified Foundation — THA Academy | Fondation certifiée Hedera — THA Academy |
+| 🌍 | Tech Savvy Summit · Build with AI · Togo IT Days | Tech Savvy Summit · Build with AI · Togo IT Days |
+| 🚀 | TOSKANIRO founder & ecosystem builder | Fondateur TOSKANIRO & bâtisseur d'écosystème |
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=4F46E5,8B5CF6&height=3&section=header&text=&fontSize=0" width="100%"/>
 
-# GitHub Analytics
+<h2 align="center">GitHub Analytics</h2>
 
 <div align="center">
 
-<a href="https://github.com/hxriell07">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hxriell07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=6366F1&text_color=C9D1D9&count_private=true"/>
-</a>
-
-<a href="https://github.com/hxriell07">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hxriell07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9&langs_count=8"/>
-</a>
-
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=hxriell&show_icons=true&theme=transparent&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=E2E8F0&count_private=true&border_radius=12" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hxriell&layout=compact&theme=transparent&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E2E8F0&langs_count=8&border_radius=12" height="170"/>
 
 <br>
 
-<div align="center">
+<img src="https://streak-stats.demolab.com?user=hxriell&theme=transparent&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=6366F1&border_radius=12"/>
 
-<img src="https://streak-stats.demolab.com?user=hxriell07&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=6366F1&currStreakLabel=8B5CF6" />
+<br><br>
 
-</div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hxriell&bg_color=0D1117&color=8B5CF6&line=A78BFA&point=C4B5FD&area=true&hide_border=true" width="100%"/>
 
----
+<br><br>
 
-# GitHub Trophies
+<img src="https://github-profile-trophy.vercel.app/?username=hxriell&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=4&rank=-C"/>
 
-<div align="center">
+<br><br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=hxriell07&theme=discord&no-frame=true&no-bg=true&margin-w=10&column=7" />
-
-</div>
-
----
-
-# Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hxriell07&bg_color=0D1117&color=8B5CF6&line=6366F1&point=A78BFA&area=true&hide_border=true" width="100%"/>
+<img src="https://raw.githubusercontent.com/hxriell/hxriell/output/github-contribution-grid-snake.svg" alt="Contribution snake"/>
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=4F46E5,8B5CF6&height=3&section=header&text=&fontSize=0" width="100%"/>
 
-# Contribution Snake
+<h2 align="center">Current Focus · Focus actuel</h2>
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/hxriell07/hxriell07/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-
-</div>
-
----
-
-# Current Focus
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ```yaml
-current_focus:
-  learning:
-    - Hardware architectures
-    - Microcontrollers
-    - Low-level automation
-    - Embedded systems engineering
+# EN
+learning:
+  - Hardware architectures
+  - Microcontrollers & embedded systems
+building:
+  - TOSKANIRO technology ecosystem
+  - Internal tools & automation
+exploring:
+  - AI-assisted engineering
+  - Computer vision & embedded AI
+open_to:
+  - Full-Stack · Backend · Embedded
+  - Product & automation engineering
+```
 
-  building:
-    - Consolidation of the TOSKANIRO technology ecosystem
-    - Software engineering infrastructure
-    - Internal tools and automation
+</td>
+<td width="50%" valign="top">
 
-  exploring:
-    - AI-assisted engineering
-    - Computer vision
-    - Embedded AI
-    - Systems architecture
+```yaml
+# FR
+apprentissage:
+  - Architectures matérielles
+  - Microcontrôleurs & embarqué
+construction:
+  - Écosystème technologique TOSKANIRO
+  - Outils internes & automatisation
+exploration:
+  - Ingénierie assistée par IA
+  - Vision par ordinateur & IA embarquée
+ouvert_a:
+  - Full-Stack · Backend · Embarqué
+  - Ingénierie produit & automatisation
+```
 
-  open_to:
-    - Full-Stack Software Engineering
-    - Embedded Systems Development
-    - Internal Tools Engineering
-    - Backend Engineering
-    - Product Engineering
-````
+</td>
+</tr>
+</table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=4F46E5,8B5CF6&height=3&section=header&text=&fontSize=0" width="100%"/>
 
-# Connect
-
-<div align="center">
-
-<a href="mailto:marceltko@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-marceltko%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/hxriell07">
-<img src="https://img.shields.io/badge/GitHub-hxriell07-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://hxriell07.github.io/mon-portfolio-1/">
-<img src="https://img.shields.io/badge/Portfolio-MarcelWorks-8B5CF6?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
-
-</div>
-
----
+<h2 align="center">Connect · Contact</h2>
 
 <div align="center">
 
-**"Build systems that solve real problems. Engineer with purpose."**
+<a href="mailto:marceltko@gmail.com"><img src="https://img.shields.io/badge/Gmail-marceltko@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/hxriell"><img src="https://img.shields.io/badge/GitHub-@hxriell-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://hxriell07.github.io/mon-portfolio-1/"><img src="https://img.shields.io/badge/Portfolio-Live_Demo-8B5CF6?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
 
+<br><br>
+
+<sub>🇬🇧 <em>Build systems that solve real problems. Engineer with purpose.</em></sub>
 <br>
+<sub>🇫🇷 <em>Construire des systèmes qui résolvent de vrais problèmes. Ingénierie avec intention.</em></sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:6366F1,100:4F46E5&height=120&section=footer" width="100%"/>
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A78BFA,50:7C3AED,100:4F46E5&height=130&section=footer&text=TEKO%20Folly%20Hariel%20Marcel&fontSize=24&fontColor=ffffff&animation=fadeIn&fontAlignY=72"/>
 
 </div>
-
